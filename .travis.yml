@@ -1,1 +1,2 @@
-language:java
+lamguage: java
+script: ant TestFlatRateDiscount
